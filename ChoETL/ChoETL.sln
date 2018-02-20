@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChoETL", "ChoETL\ChoETL.csproj", "{13E3CD31-EE48-407B-8BBE-4B65B652004D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13E3CD31-EE48-407B-8BBE-4B65B652004D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13E3CD31-EE48-407B-8BBE-4B65B652004D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13E3CD31-EE48-407B-8BBE-4B65B652004D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13E3CD31-EE48-407B-8BBE-4B65B652004D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43A32568-EC22-49F5-B949-532EB01350EA}
+	EndGlobalSection
+EndGlobal
